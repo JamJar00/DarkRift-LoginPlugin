@@ -1,3 +1,5 @@
+## UPDATE: This project has major security issues and should be used only as a reference.
+
 Hello!
 
 These resources are free for you to use/copy/generally do what you like with.
